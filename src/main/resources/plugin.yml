@@ -1,0 +1,8 @@
+name: RandomQuest
+version: '${project.version}'
+main: com.tomasgng.RandomQuest
+api-version: 1.19
+authors: [ TomasGnG ]
+
+commands:
+  getquest:
