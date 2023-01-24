@@ -17,7 +17,7 @@ public class QuestManager {
 
     private String prefix = "§l§aQuest §8| §7";
 
-    // Die erste Zahl("60") entspricht der Sekundenanzahl. Derzeit ist die Zeit auf 60 Sekunden eingestellt.
+    // Zeit in Sekunden angegeben.
     final private int time = 30;
 
     // Der maximale Wert wie viel ein Spieler jemals farmen sollte.
